@@ -46,6 +46,15 @@ header {
   font-weight: bolder;
 }
 
+.tile1 {
+  background-color: #3a3a3c;
+  display: flex;
+  color: white;
+  font-size: var(--fontsize);
+  align-items: center;
+  justify-content: center;
+  font-weight: bolder;
+}
 #keyboard-container {
   margin-top: 30px;
   display: grid;
